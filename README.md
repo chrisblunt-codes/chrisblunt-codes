@@ -33,7 +33,7 @@ I write about building software that works in tough conditions:
 ---
 
 📫 **Reach me:**  
-- Blog: [yourblog.com](https://www.chrisblunt.codes)  
+- Blog: [chrisblunt.codes](https://www.chrisblunt.codes)  
 
 
 <!--
