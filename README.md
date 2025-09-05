@@ -27,7 +27,7 @@ I write about building software that works in tough conditions:
 ## 💡 About Me
 
 - Background: Computer Science (Oxford), Postgrad in IT & Networking (Liverpool)  
-- Specialties: Ruby, Crystal, Nim, Python, low-bandwidth system design  
+- Specialties: Ruby, Crystal, low-bandwidth system design  
 - Interests: Open source, resilient comms, cybersecurity, maritime IT  
 
 ---
