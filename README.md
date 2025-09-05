@@ -21,7 +21,7 @@ Most of my professional work is private, but I publish open-source projects here
 ## 📝 Blog & Writing
 
 I write about building software that works in tough conditions:  
-- [My Blog](https://chrisblunt.codes)  
+- [My Blog](https://blog.chrisblunt.codes)  
 ---
 
 ## 💡 About Me
